@@ -27,8 +27,6 @@ public class ForexService {
 		
 		return result;
 	}
-	
-	
-	
-	
+
+
 }
